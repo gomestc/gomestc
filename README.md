@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cristiangtavares
+- 👋 Hi, I’m Cristian
 - 👀 I’m interested in technology and games.
 - 🌱 I’m currently learning Python and Git.
 - 💞️ I’m looking to collaborate on translations and open source projects.
